@@ -1,0 +1,3 @@
+Opacity / Transparency
+The opacity property specifies the opacity/transparency of an element. 
+It can take a value from 0.0 - 1.0. The lower value, the more transparent:
