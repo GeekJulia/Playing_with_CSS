@@ -12,3 +12,10 @@ background-repeat: repeat-x ==> To repeat an image horizontally
 background-repeat: repeat-y ==> To repeat an image vertically,
 background-repeat: no-repeat; ==> No image repeat
 background-position: right top; ==> Position the background image in the top-right corner: 
+
+Background-attachment
+background-attachment property specifies whether the background image should 
+scroll or be fixed (will not scroll with the rest of the page):
+background-attachment: fixed;
+background-attachment: scroll;
+
