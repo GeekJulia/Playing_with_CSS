@@ -1,0 +1,17 @@
+.mainbox{
+    border-style: solid;
+    border-width: 1px;
+    height: 50px;
+    width: 600px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: auto;
+}
+
+p.box1{
+    margin: inherit;
+}
+p.box2{
+    margin: inherit;
+}
