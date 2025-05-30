@@ -1,0 +1,28 @@
+.box1{
+    border-style: hidden;
+    background-color: aqua;
+    outline-style: inset;
+    width: 400px;
+    height: 30px;
+}
+.box2{
+    border-style: hidden;
+    background-color: aqua;
+    outline-style:outset;
+    width: 400px;
+    height: 30px;
+}
+.box3{
+    border-style: hidden;
+    background-color: aqua;
+    outline-style:groove;
+    width: 400px;
+    height: 30px;
+}
+.box4{
+    border-style: hidden;
+    background-color: aqua;
+    outline-style:ridge;
+    width: 400px;
+    height: 30px;
+}
