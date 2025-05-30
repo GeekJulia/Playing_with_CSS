@@ -1,0 +1,44 @@
+.head1{
+    color:blueviolet;
+    text-align: left;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+.head2{
+    color: blue;
+    text-align:center;
+    direction: ltr;
+    unicode-bidi:bidi-override;
+}
+.head3{
+    color:chartreuse;
+    text-align:end;
+}
+.head4{
+    color:chocolate;
+    text-align:justify;
+}
+.head5{
+    color:brown;
+    text-align:right;
+}
+
+/* img.a {
+  vertical-align: baseline;
+}
+
+img.b {
+  vertical-align: text-top;
+}
+
+img.c {
+  vertical-align: text-bottom;
+}
+
+img.d {
+  vertical-align: sub;
+}
+
+img.e {
+  vertical-align: super;
+} */
