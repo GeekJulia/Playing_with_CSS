@@ -1,0 +1,17 @@
+p{
+    border-style: hidden;
+    background-color: aqua;
+    margin:auto;
+}
+
+p.box1{
+    width:300px;
+    padding: 20px;
+}
+
+p.box2{
+    width:300px;
+    padding: 20px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
